@@ -50,12 +50,6 @@ This repository contains data files and scripts related to the study titled "Nat
 
    - **andean_prkaa1_region.vcf**: A VCF file of high-coverage whole-genome sequences from Andean individuals, focused on the PRKAA1 region. Used in selection scans to assess allele frequencies and LD (linkage disequilibrium) patterns.
 
-## Description of Key Variables and Phenotypes
-
-- **Genotype data**: Includes PRKAA1 SNPs like rs10035235 and rs3805490, which are associated with ventilation and sleep phenotypes.
-- **Phenotypes**: Measures of ventilation (e.g., PETCO2, minute ventilation) and sleep parameters (e.g., O2 saturation, apnea duration), stratified by sex in high-altitude and low-altitude populations.
-- **Statistical Analyses**: Association results between PRKAA1 SNPs and phenotypes, using linear models adjusted for covariates such as sex, age, and BMI.
-
 ## Data Use and Citation
 
 Please cite the original manuscript when using this data for publications, presentations, or analyses. Data access is intended for research purposes only and requires proper attribution.
