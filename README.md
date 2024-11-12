@@ -1,6 +1,6 @@
 # Andean Natural Selection at PRKAA1 Data Deposit
 
-
+This data deposit can also be found at: https://zenodo.org/records/14081450
 
 ## Overview
 
